@@ -322,7 +322,7 @@ During the Data Profiling phase (Phase 4 - Granularity), this hypothesis was for
 The Data Warehouse adopts a Star Schema design to optimize analytical queries over agricultural productivity data. This schema centers on a single fact table, `fact_produccion_agricola`, surrounded by three denormalized dimension tables: `dim_geografia`, `dim_cultivo`, and `dim_tiempo`. This structure minimizes join complexity and supports efficient aggregation across geographic, crop-related, and temporal perspectives.
 
 *Figure 11.1. Final Power BI star schema for agricultural productivity analysis aligned with SDG 2.*
-![Architecture Diagram](..\assets\diagrama_1.svg)    
+![Architecture Diagram](./assets/diagrama_1.svg)    
 
 ## 11.2. Fact Table (`fact_produccion_agricola`)
 
@@ -421,7 +421,7 @@ The following matrix validates that the implemented dimensional model (Star Sche
 The system follows a linear ETL architecture composed of four sequential layers, moving data from raw source files through processing, storage, and finally to business intelligence consumption.
 
 *Figure 13.1. Final Architecture Diagram for agricultural productivity analysis aligned with SDG 2.*
-![Architecture Diagram](..\assets\diagrama_2.svg)  
+![Architecture Diagram](./assets/diagrama_2.svg)  
 
 ### Layer Description
 
@@ -792,7 +792,7 @@ Additional geographic and crop-level filtering can be performed through the corr
 **Power BI Dashboard — Final Implementation**  
 
 *Figure 17.1. Final dashboard for agricultural productivity analysis aligned with SDG 2.*
-![Power BI Dashboard](..\assets\Dashboard.jpg)      
+![Power BI Dashboard](./assets/Dashboard.jpg)      
 
 **Dashboard Evidence Description**  
 The final evidence should include screenshots demonstrating:
