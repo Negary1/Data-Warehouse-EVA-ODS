@@ -1,0 +1,1001 @@
+departamento,municipio,cultivo,produccion_total_ton,area_cosechada_total_ha,rendimiento_ton_ha
+Antioquia,Fredonia,Tomate,23545.00,158.00,149.02
+Antioquia,Retiro,Tomate,40830.00,281.50,145.04
+Antioquia,Entrerríos,Tomate,3120.00,22.00,141.82
+"Valle del Cauca",Bugalagrande,Caña,9447376.27,66997.00,141.01
+Nariño,Puerres,Tomate,11717.00,83.90,139.65
+"Valle del Cauca",Cartago,Caña,4231129.30,30338.48,139.46
+Cauca,Miranda,Caña,6624583.40,47572.00,139.25
+"Valle del Cauca",Palmira,Caña,32660389.34,238636.00,136.86
+Antioquia,Carolina,Tomate,7512.00,55.60,135.11
+"Valle del Cauca",Ansermanuevo,Caña,1657645.00,12411.00,133.56
+Cauca,Morales,Tomate,2080.00,16.00,130.00
+Boyacá,Sutamarchán,Tomate,209365.80,1627.90,128.61
+"Valle del Cauca",Yumbo,Caña,1727560.50,13505.30,127.92
+"Valle del Cauca",Guacarí,Caña,11920387.80,93237.00,127.85
+Cauca,"Santander de Quilichao",Caña,5250268.80,41085.55,127.79
+Cundinamarca,Simijaca,Tomate,4111.50,32.20,127.69
+"Valle del Cauca",Riofrío,Caña,2519860.00,19806.00,127.23
+Santander,Vélez,Caña,820830.00,6528.00,125.74
+"Valle del Cauca",Florida,Caña,9624851.20,76558.80,125.72
+Cauca,"Villa Rica",Caña,4016885.57,32119.00,125.06
+"Valle del Cauca","Guadalajara de Buga",Caña,6646300.00,53959.00,123.17
+Antioquia,Rionegro,Tomate,19598.00,159.50,122.87
+Boyacá,Duitama,Tomate,6256.00,51.40,121.71
+"Valle del Cauca",Candelaria,Caña,20830413.50,172595.00,120.69
+"Valle del Cauca","El Cerrito",Caña,14250600.00,118755.00,120.00
+Cundinamarca,Cabrera,Tomate,28800.00,240.00,120.00
+Antioquia,Marinilla,Tomate,313560.00,2613.00,120.00
+Antioquia,Sonsón,Tomate,36960.00,308.00,120.00
+Antioquia,"La Ceja",Tomate,37452.00,312.10,120.00
+Santander,Bolívar,Caña,169440.00,1412.00,120.00
+Santander,Charta,Tomate,2880.00,24.00,120.00
+Santander,"Palmas del Socorro",Caña,96120.00,801.00,120.00
+Santander,Encino,Caña,37200.00,310.00,120.00
+Cauca,Guachené,Caña,4222278.22,35521.00,118.87
+Boyacá,"San José de Pare",Caña,3102860.00,26198.00,118.44
+"Valle del Cauca",Zarzal,Caña,9867793.40,83340.26,118.40
+Santander,Suaita,Caña,2931160.00,24892.00,117.76
+Santander,Páramo,Caña,631150.00,5375.00,117.42
+Boyacá,Chitaraque,Caña,3651020.00,31302.00,116.64
+"Valle del Cauca",Yotoco,Caña,2422200.00,20876.00,116.03
+"Valle del Cauca",Obando,Caña,6707526.20,57840.50,115.97
+Huila,Saladoblanco,Caña,97980.00,846.00,115.82
+"Valle del Cauca","La Victoria",Caña,1295735.23,11264.00,115.03
+Cauca,Caloto,Caña,2339295.78,20342.00,115.00
+Caldas,Viterbo,Caña,2161646.22,18846.80,114.70
+Nariño,Linares,Tomate,9510.00,83.00,114.58
+"Valle del Cauca",Roldanillo,Caña,2331878.19,20366.27,114.50
+"Valle del Cauca",Pradera,Caña,8439294.00,74000.00,114.04
+Boyacá,Busbanzá,Tomate,3400.00,30.00,113.33
+"Valle del Cauca",Andalucía,Caña,3322231.40,29399.12,113.00
+Santander,Mogotes,Caña,733405.00,6523.00,112.43
+Boyacá,Guacamayas,Tomate,3026.00,27.00,112.07
+Nariño,Potosí,Tomate,112.00,1.00,112.00
+Boyacá,Togüí,Caña,1782730.00,15993.00,111.47
+Quindío,Filandia,Tomate,35060.00,315.00,111.30
+Santander,Confines,Caña,497000.00,4476.00,111.04
+Antioquia,Medellín,Tomate,31706.40,285.84,110.92
+Huila,Palestina,Caña,43120.00,390.00,110.56
+Cauca,Padilla,Caña,5216301.24,47204.00,110.51
+Antioquia,"El Santuario",Tomate,88110.00,801.00,110.00
+"Valle del Cauca",Ginebra,Caña,2348710.50,21407.00,109.72
+Santander,Guapotá,Caña,105000.00,958.00,109.60
+Antioquia,"San Vicente Ferrer",Tomate,135910.00,1244.00,109.25
+Cauca,"La Sierra",Caña,803144.18,7360.00,109.12
+Santander,"San Benito",Caña,1670650.00,15560.00,107.37
+"Norte de Santander",Labateca,Tomate,11580.00,108.00,107.22
+Cauca,Corinto,Caña,2630161.92,24774.00,106.17
+"Valle del Cauca",Bolívar,Caña,537552.00,5069.00,106.05
+"Valle del Cauca","San Pedro",Caña,3932314.00,37201.80,105.70
+Antioquia,Peñol,Tomate,439534.00,4167.00,105.48
+"Valle del Cauca","La Unión",Caña,1330653.05,12673.00,105.00
+Antioquia,Urrao,Tomate,35507.00,338.40,104.93
+"Valle del Cauca",Jamundí,Caña,6761610.00,64991.50,104.04
+Antioquia,Concepción,Tomate,2125.00,20.45,103.91
+Antioquia,Jardín,Tomate,21926.50,212.00,103.43
+Santander,Oiba,Caña,136200.00,1320.00,103.18
+Santander,Chima,Caña,13720.00,133.00,103.16
+"Valle del Cauca",Trujillo,Caña,159920.80,1554.80,102.86
+Santander,California,Tomate,7773.30,76.10,102.15
+Huila,Isnos,Caña,2924628.00,28696.00,101.92
+Santander,Barbosa,Caña,376018.00,3699.00,101.65
+Nariño,Samaniego,Tomate,15488.44,153.96,100.60
+Santander,"San Gil",Caña,196000.00,1960.00,100.00
+Santander,Güepsa,Caña,1623140.00,16232.00,100.00
+Santander,Guadalupe,Caña,89900.00,899.00,100.00
+"Valle del Cauca","Santiago de Cali",Caña,3254953.50,32550.00,100.00
+Boyacá,Pachavita,Tomate,34800.00,348.00,100.00
+Boyacá,Chíquiza,Tomate,10500.00,105.00,100.00
+Antioquia,Ituango,Tomate,1150.00,11.50,100.00
+Antioquia,Necoclí,Piña,4500.00,45.00,100.00
+Antioquia,Nariño,Tomate,900.00,9.00,100.00
+Santander,Curití,Caña,13440.00,135.50,99.19
+"Valle del Cauca",Vijes,Caña,152248.00,1541.00,98.80
+Nariño,Santacruz,Tomate,395.00,4.00,98.75
+Nariño,Albán,Tomate,105927.15,1076.45,98.40
+Cundinamarca,Choachí,Tomate,9965.00,101.50,98.18
+"Valle del Cauca",Tuluá,Caña,5484737.00,55927.00,98.07
+Risaralda,"La Virginia",Caña,161595.68,1651.80,97.83
+Boyacá,"Villa de Leyva",Tomate,499743.00,5115.50,97.69
+Cesar,González,Tomate,18014.50,184.85,97.45
+Antioquia,"San Andrés de Cuerquía",Tomate,952.00,9.80,97.14
+Risaralda,Marsella,Tomate,21504.00,224.00,96.00
+"Valle del Cauca",Toro,Caña,1370280.00,14279.00,95.96
+Huila,"San Agustín",Caña,1764400.00,18396.00,95.91
+Santander,Macaravita,Tomate,950.00,10.00,95.00
+Atlántico,Soledad,Caña,190.00,2.00,95.00
+Risaralda,"Belén de Umbría",Caña,120627.08,1275.30,94.59
+Santander,Socorro,Caña,165915.00,1759.00,94.32
+Antioquia,"San Pedro de Los Milagros",Tomate,1640.90,17.62,93.13
+Nariño,Guaitarilla,Tomate,43379.50,469.00,92.49
+"Valle del Cauca",Caicedonia,Caña,84768.62,919.00,92.24
+Caldas,"San José",Caña,157307.87,1728.00,91.03
+Santander,"San Joaquín",Tomate,5638.00,62.00,90.94
+Nariño,Imués,Tomate,13798.78,152.10,90.72
+Risaralda,"Santa Rosa de Cabal",Tomate,26899.00,297.00,90.57
+Santander,"Puente Nacional",Caña,23310.00,259.00,90.00
+Boyacá,Santana,Caña,1754280.00,19492.00,90.00
+Boyacá,Miraflores,Tomate,34299.00,381.10,90.00
+Meta,Granada,Caña,63180.00,702.00,90.00
+Nariño,"El Tambo",Tomate,18129.50,202.50,89.53
+Risaralda,Balboa,Caña,920392.00,10291.00,89.44
+Caldas,Villamaría,Tomate,14842.00,166.00,89.41
+Risaralda,Dosquebradas,Tomate,2082.00,23.30,89.36
+Huila,Timaná,Caña,22515.00,252.00,89.35
+Santander,"San Joaquín",Caña,17230.00,194.00,88.81
+Nariño,Mallama,Tomate,5377.40,60.60,88.74
+Cundinamarca,Pacho,Tomate,69010.00,779.00,88.59
+Antioquia,"Ciudad Bolívar",Caña,20800.00,235.00,88.51
+Nariño,Albán,Caña,191440.00,2177.00,87.94
+Boyacá,"Santa Sofía",Tomate,75075.00,860.00,87.30
+Risaralda,"Santa Rosa de Cabal",Caña,2440.00,28.00,87.14
+Cauca,"Piendamó - Tunía",Tomate,4580.00,53.00,86.42
+Cauca,Mercaderes,Caña,129720.00,1504.00,86.25
+Santander,Gámbita,Caña,573760.00,6654.00,86.23
+"Valle del Cauca","La Victoria",Tomate,1000.10,11.60,86.22
+Nariño,Ancuya,Caña,667705.40,7772.52,85.91
+Antioquia,Guarne,Tomate,124030.00,1449.00,85.60
+Nariño,Belén,Tomate,598.46,7.01,85.37
+Antioquia,"San Jerónimo",Tomate,3196.00,37.60,85.00
+Boyacá,Sáchica,Tomate,92078.00,1083.50,84.98
+Nariño,"San Pablo",Tomate,20912.00,248.00,84.32
+Boyacá,Turmequé,Tomate,11395.00,136.00,83.79
+"La Guajira","San Juan del Cesar",Caña,22900.00,274.00,83.58
+Santander,Chipatá,Caña,804990.00,9633.50,83.56
+Huila,Nátaga,Caña,35657.94,427.91,83.33
+Cauca,Caldono,Tomate,12889.00,155.00,83.15
+Boyacá,Páez,Tomate,249.00,3.00,83.00
+Huila,Aipe,Caña,74489.00,898.75,82.88
+Antioquia,Abriaquí,Tomate,4630.50,56.00,82.69
+Santander,Molagavita,Caña,49280.00,596.00,82.68
+Risaralda,"La Celia",Tomate,4363.20,52.80,82.64
+Boyacá,Nobsa,Tomate,28674.00,347.00,82.63
+Santander,Cerrito,Tomate,5447.50,66.00,82.54
+Risaralda,"La Celia",Caña,10982.50,134.00,81.96
+Huila,Villavieja,Caña,10555.70,129.12,81.75
+Cundinamarca,Susa,Tomate,18614.00,228.00,81.64
+Cauca,Rosas,Caña,349100.00,4296.00,81.26
+Cundinamarca,Machetá,Caña,23596.00,291.00,81.09
+Huila,Tesalia,Caña,44661.30,556.75,80.22
+Antioquia,Jericó,Tomate,4924.55,61.40,80.20
+Boyacá,Berbeo,Tomate,6751.40,84.38,80.01
+Boyacá,Monguí,Tomate,200.00,2.50,80.00
+Cundinamarca,Vianí,Caña,257270.00,3216.00,80.00
+Boyacá,Tuta,Tomate,160.00,2.00,80.00
+Casanare,Monterrey,Caña,1360.00,17.00,80.00
+Boyacá,Viracachá,Tomate,360.00,4.50,80.00
+Santander,Simacota,Caña,29160.00,364.50,80.00
+"Valle del Cauca",Versalles,Caña,243040.00,3038.00,80.00
+"Valle del Cauca","La Cumbre",Piña,119304.00,1491.30,80.00
+"Valle del Cauca",Calima,Caña,57320.00,716.50,80.00
+Caldas,Belalcázar,Caña,81385.64,1017.50,79.99
+Cundinamarca,Fúquene,Tomate,56650.00,710.00,79.79
+Santander,"El Carmen de Chucurí",Tomate,1128.00,14.20,79.44
+Huila,Baraya,Caña,63037.40,794.15,79.38
+Tolima,Falan,Caña,680400.00,8590.00,79.21
+Tolima,Ataco,Caña,117660.00,1489.00,79.02
+Cundinamarca,Mosquera,Tomate,4340.00,55.00,78.91
+Santander,Charalá,Caña,312765.00,3965.00,78.88
+Huila,Tello,Caña,89673.80,1137.75,78.82
+Caldas,Manzanares,Tomate,2927.40,37.30,78.48
+Huila,Colombia,Caña,193097.00,2488.25,77.60
+Bolívar,"Santa Rosa del Sur",Caña,330168.00,4260.00,77.50
+"Norte de Santander","San José de Cúcuta",Caña,28040.00,362.00,77.46
+Antioquia,Toledo,Tomate,493.60,6.39,77.25
+Caldas,Marulanda,Caña,11580.80,150.00,77.21
+Tolima,Rioblanco,Caña,357560.00,4632.00,77.19
+Santander,"Valle de San José",Caña,594998.00,7721.00,77.06
+Santander,Onzaga,Caña,215520.00,2798.00,77.03
+Nariño,"Santa Bárbara",Caña,44040.00,572.00,76.99
+Antioquia,Guatapé,Tomate,5752.35,74.90,76.80
+Santander,"San Andrés",Caña,256640.00,3348.00,76.65
+Cundinamarca,Paratebueno,Caña,120086.00,1570.00,76.49
+Santander,"El Guacamayo",Caña,70440.00,924.00,76.23
+Caldas,Villamaría,Caña,5300.00,70.00,75.71
+Nariño,"La Florida",Tomate,5865.00,77.50,75.68
+Nariño,Contadero,Tomate,692.00,9.15,75.63
+Huila,Palermo,Caña,101852.00,1347.50,75.59
+Cauca,Cajibío,Caña,1790800.00,23735.00,75.45
+Boyacá,Moniquirá,Caña,1000896.00,13272.00,75.41
+Risaralda,Guática,Tomate,4635.00,61.50,75.37
+Antioquia,Betania,Caña,3855.40,51.20,75.30
+Antioquia,Girardota,Tomate,14473.97,192.40,75.23
+Santander,"San Miguel",Caña,36770.00,490.00,75.04
+Cesar,González,"Pepino Cohombro",7893.75,105.25,75.00
+Nariño,Linares,Caña,1198550.00,15990.00,74.96
+Santander,Málaga,Tomate,24863.50,332.50,74.78
+Quindío,"La Tebaida",Caña,62135.82,833.90,74.51
+Antioquia,Argelia,Tomate,229.56,3.09,74.29
+Cauca,Morales,Caña,281710.00,3793.00,74.27
+Nariño,Mallama,Caña,328155.00,4422.00,74.21
+Santander,Piedecuesta,Caña,11797.50,159.00,74.20
+Vichada,Cumaribo,Caña,54240.00,732.00,74.10
+Caldas,Supía,Caña,1087900.00,14705.00,73.98
+Cauca,"Puerto Tejada",Caña,4046587.31,54775.05,73.88
+"Valle del Cauca",Restrepo,Caña,178875.00,2430.00,73.61
+Nariño,"La Unión",Tomate,17995.00,244.70,73.54
+Santander,"San José de Miranda",Tomate,58823.80,801.40,73.40
+Santander,Gámbita,Tomate,6530.00,90.00,72.56
+Antioquia,Betulia,Caña,43450.00,600.00,72.42
+Huila,"La Plata",Caña,214555.00,2964.50,72.37
+Antioquia,"San Pedro de Los Milagros",Zanahoria,89279.75,1234.75,72.31
+Caldas,Salamina,Caña,276610.00,3826.00,72.30
+Antioquia,Campamento,Tomate,3490.00,48.40,72.11
+Santander,"El Guacamayo",Tomate,216.00,3.00,72.00
+Cundinamarca,Tocaima,Caña,86030.00,1196.00,71.93
+Córdoba,Buenavista,Piña,116720.00,1625.00,71.83
+Tolima,Cajamarca,Tomate,50392.00,705.30,71.45
+"Valle del Cauca",Pradera,Piña,10000.00,140.00,71.43
+Cundinamarca,Gachalá,Caña,113040.00,1586.00,71.27
+Tolima,Casabianca,Caña,201505.00,2840.00,70.95
+Huila,Altamira,Caña,16884.00,239.00,70.64
+Caldas,Aguadas,Caña,222900.00,3160.00,70.54
+Santander,Piedecuesta,Tomate,60352.50,858.05,70.34
+Santander,Macaravita,Caña,420.00,6.00,70.00
+Cauca,"Piendamó - Tunía",Caña,53725.00,767.50,70.00
+Antioquia,Toledo,Sábila,490.00,7.00,70.00
+Antioquia,Támesis,Tomate,2164.40,30.92,70.00
+Chocó,"El Carmen de Atrato",Caña,1400.00,20.00,70.00
+Magdalena,"El Banco",Caña,2520.00,36.00,70.00
+Huila,Pitalito,Caña,162547.00,2322.10,70.00
+Boyacá,Gachantivá,Tomate,2520.00,36.00,70.00
+"Valle del Cauca",Yotoco,Piña,6020.00,86.00,70.00
+Cauca,Suárez,Tomate,2616.00,37.40,69.95
+Cundinamarca,Tibirita,Caña,6826.00,98.00,69.65
+"Valle del Cauca",Florida,Piña,79753.51,1145.49,69.62
+Nariño,Buesaco,Tomate,7365.00,106.00,69.48
+Huila,Oporapa,Caña,36900.00,531.50,69.43
+Huila,Teruel,Caña,16037.50,231.00,69.43
+Huila,Pital,Caña,54140.00,781.75,69.25
+Boyacá,"San Luis de Gaceno",Caña,10455.00,151.00,69.24
+Santander,Hato,Caña,192110.00,2776.00,69.20
+Risaralda,Santuario,Caña,519904.26,7521.30,69.12
+Antioquia,Alejandría,Caña,79207.00,1147.10,69.05
+Tolima,Cunday,Caña,52250.00,757.00,69.02
+Boyacá,"San Eduardo",Tomate,1389.00,20.20,68.76
+Santander,Florián,Caña,57400.00,835.00,68.74
+Meta,"Puerto Rico",Caña,96385.00,1407.00,68.50
+Antioquia,Marinilla,Repollo,85530.00,1249.00,68.48
+Boyacá,Sutatenza,Tomate,3896.00,57.00,68.35
+Cundinamarca,Bituima,Tomate,3040.00,44.50,68.31
+"Valle del Cauca",Alcalá,Piña,19617.68,287.40,68.26
+Antioquia,"El Carmen de Viboral",Tomate,14585.00,214.00,68.15
+Huila,"Santa María",Caña,127585.16,1879.00,67.90
+Huila,Elías,Caña,13055.79,192.50,67.82
+Meta,"Puerto López",Piña,166150.00,2450.00,67.82
+Antioquia,"Santa Rosa de Osos",Tomate,928.45,13.69,67.82
+Cauca,"San Sebastián",Caña,83830.00,1237.00,67.77
+Boyacá,Boavita,Caña,31490.00,465.00,67.72
+Santander,Molagavita,Tomate,39232.00,580.00,67.64
+Boyacá,"La Capilla",Tomate,23331.00,345.00,67.63
+Meta,Cubarral,Tomate,8.10,0.12,67.50
+Risaralda,"Pueblo Rico",Caña,627243.00,9295.00,67.48
+Cundinamarca,Vergara,Caña,470330.00,7001.00,67.18
+Boyacá,Almeida,Tomate,1442.00,21.50,67.07
+Cauca,Inzá,Caña,34058.55,509.50,66.85
+Caldas,Manizales,Caña,6350.00,95.00,66.84
+Nariño,"La Unión",Caña,80690.00,1211.00,66.63
+Santander,Coromoro,Caña,139600.00,2100.00,66.48
+Boyacá,Tibaná,Tomate,1030.00,15.50,66.45
+Caldas,"La Merced",Caña,49035.00,740.00,66.26
+Boyacá,Quípama,Caña,67600.00,1022.00,66.14
+Huila,Hobo,Caña,8645.00,131.00,65.99
+Cauca,Florencia,Caña,26280.00,400.00,65.70
+Meta,"El Calvario",Caña,35900.00,547.00,65.63
+Huila,Garzón,Caña,42678.40,650.25,65.63
+Nariño,"El Tablón de Gómez",Tomate,5741.50,87.50,65.62
+Cauca,Toribío,Tomate,6971.50,106.30,65.58
+Cundinamarca,"San Bernardo",Tomate,2307.00,35.20,65.54
+Huila,Suaza,Caña,36470.00,556.75,65.51
+Boyacá,Miraflores,Caña,209340.40,3201.00,65.40
+"Valle del Cauca",Dagua,Tomate,97289.00,1488.00,65.38
+Boyacá,Guateque,Tomate,1902.85,29.15,65.28
+Huila,Agrado,Caña,12471.22,191.04,65.28
+Tolima,Lérida,Caña,57330.00,882.00,65.00
+Santander,Ocamonte,Caña,1444050.00,22278.00,64.82
+Boyacá,Ráquira,Tomate,49844.00,770.00,64.73
+"Valle del Cauca",Jamundí,Piña,29160.00,451.00,64.66
+"Valle del Cauca",Sevilla,Caña,84165.70,1306.00,64.45
+Caldas,Pensilvania,Tomate,4344.00,67.50,64.36
+Cundinamarca,Nocaima,Caña,807206.00,12543.70,64.35
+Cundinamarca,Junín,Caña,19742.00,307.00,64.31
+Cundinamarca,Guachetá,Tomate,2240.00,35.00,64.00
+Antioquia,Donmatías,Tomate,13813.35,216.60,63.77
+Tolima,Palocabildo,Caña,249346.40,3911.00,63.76
+Huila,Campoalegre,Caña,77258.80,1213.75,63.65
+Tolima,Ibagué,Caña,430900.00,6772.00,63.63
+Caldas,Anserma,Caña,70401.51,1109.00,63.48
+"Valle del Cauca",Restrepo,Piña,204134.00,3218.00,63.44
+Boyacá,Muzo,Caña,47280.00,747.00,63.29
+Antioquia,Jardín,Caña,25420.00,402.00,63.23
+Chocó,Nuquí,Caña,18922.00,300.00,63.07
+Nariño,"El Peñol",Caña,100390.40,1593.84,62.99
+Santander,"La Paz",Caña,290700.00,4630.00,62.79
+Cundinamarca,"San Cayetano",Tomate,8295.00,132.50,62.60
+Cesar,González,Caña,873873.00,13970.50,62.55
+Cesar,Curumaní,Papaya,1500.00,24.00,62.50
+Antioquia,Angostura,Caña,658400.00,10551.00,62.40
+Huila,Tarqui,Caña,85695.00,1375.00,62.32
+Quindío,Buenavista,Tomate,4960.00,80.00,62.00
+Caldas,Victoria,Caña,17650.00,285.00,61.93
+Tolima,Anzoátegui,Caña,336270.00,5431.00,61.92
+Boyacá,Panqueba,Caña,3448.40,55.70,61.91
+Santander,Zapatoca,Tomate,16974.05,275.20,61.68
+Boyacá,Covarachía,Caña,9365.00,152.00,61.61
+Meta,Mapiripán,Caña,7075.00,115.00,61.52
+Cundinamarca,Fómeque,Tomate,91674.70,1493.90,61.37
+Huila,Acevedo,Caña,124970.50,2042.25,61.19
+"Valle del Cauca",Dagua,Piña,418674.57,6852.92,61.09
+Caquetá,"San Vicente del Caguán",Caña,349892.00,5728.00,61.08
+Caldas,Pácora,Caña,101400.00,1665.00,60.90
+Cundinamarca,Zipaquirá,Fresa,4792.00,79.00,60.66
+Tolima,Icononzo,Tomate,18896.30,312.00,60.57
+Cundinamarca,Ubalá,Tomate,8133.00,135.00,60.24
+Cundinamarca,Sibaté,Fresa,149610.00,2485.00,60.21
+Antioquia,Concordia,Caña,40635.00,675.00,60.20
+Meta,Granada,Piña,47146.00,785.00,60.06
+Antioquia,Angostura,Tomate,1741.00,29.00,60.03
+Antioquia,Fredonia,Caña,39360.00,656.00,60.00
+Antioquia,Briceño,Tomate,114.00,1.90,60.00
+Boyacá,Sora,Tomate,240.00,4.00,60.00
+Bolívar,Morales,Caña,3240.00,54.00,60.00
+Cauca,Silvia,Caña,26100.00,435.00,60.00
+Meta,Restrepo,Caña,4200.00,70.00,60.00
+Tolima,"Santa Isabel",Caña,6900.00,115.00,60.00
+"Valle del Cauca",Yumbo,Piña,208.20,3.47,60.00
+Risaralda,Quinchía,Caña,399736.60,6662.31,60.00
+Antioquia,Betania,Tomate,4386.00,73.20,59.92
+Antioquia,Andes,Pimentón,227.40,3.80,59.84
+Caldas,Marmato,Caña,28300.00,474.00,59.70
+Santander,Concepción,Tomate,19138.20,321.30,59.56
+"Valle del Cauca",Bolívar,Piña,832.00,14.00,59.43
+Antioquia,Salgar,Caña,7022.00,118.40,59.31
+Nariño,"San Bernardo",Tomate,26666.98,449.75,59.29
+"Valle del Cauca",Roldanillo,Tomate,12151.40,205.36,59.17
+Tolima,Chaparral,Caña,549019.00,9285.00,59.13
+Boyacá,Chivor,Caña,29196.00,493.74,59.13
+Risaralda,Dosquebradas,Caña,396.00,6.70,59.10
+Cauca,Caloto,Piña,73507.94,1245.00,59.04
+Cauca,"Buenos Aires",Caña,341274.40,5784.00,59.00
+Boyacá,Firavitoba,Tomate,2727.00,46.25,58.96
+Boyacá,Buenavista,Caña,90006.00,1527.00,58.94
+Tolima,Villahermosa,Caña,205390.00,3486.00,58.92
+Putumayo,"Valle del Guamuez",Caña,53540.00,910.00,58.84
+Quindío,Quimbaya,Caña,34636.00,589.20,58.78
+Caldas,Neira,Caña,218880.00,3725.00,58.76
+Magdalena,Fundación,Caña,69300.00,1180.00,58.73
+Antioquia,"La Ceja","Calabacín, calabaza",874.00,14.90,58.66
+Boyacá,Covarachía,Tomate,29254.00,499.50,58.57
+Antioquia,Titiribí,Caña,29445.00,505.00,58.31
+Nariño,"San Bernardo",Caña,20752.30,355.96,58.30
+"La Guajira",Dibulla,Caña,13860.00,238.00,58.24
+"Norte de Santander",Toledo,Caña,457680.00,7866.00,58.18
+Tolima,Fresno,Caña,281778.00,4845.00,58.16
+"Valle del Cauca",Alcalá,Tomate,22018.27,379.03,58.09
+Cundinamarca,"San Cayetano",Caña,171918.00,2963.00,58.02
+Cundinamarca,Gama,Caña,26732.00,461.00,57.99
+Tolima,Herveo,Tomate,7885.92,136.00,57.98
+Caldas,Marquetalia,Tomate,4849.00,83.70,57.93
+Caquetá,"Puerto Rico",Caña,141231.00,2439.00,57.91
+Cundinamarca,Tocancipá,Tomate,2177.10,37.60,57.90
+Nariño,"El Tambo",Caña,394610.00,6818.00,57.88
+"Valle del Cauca",Calima,Tomate,25476.59,441.02,57.77
+Huila,Neiva,Caña,333575.61,5791.35,57.60
+Casanare,Aguazul,Piña,62635.00,1088.50,57.54
+"Norte de Santander",Cáchira,Tomate,12887.75,224.00,57.53
+Caldas,Palestina,Tomate,4945.00,86.00,57.50
+Antioquia,Envigado,Tomate,2173.20,37.82,57.46
+Huila,"La Argentina",Caña,98885.00,1721.25,57.45
+Caldas,Risaralda,Caña,58612.00,1022.00,57.35
+Tolima,"San Antonio",Tomate,10699.20,186.70,57.31
+Caldas,Norcasia,Caña,2619.84,45.80,57.20
+Boyacá,"Santa Sofía",Caña,47520.00,832.00,57.12
+Nariño,Leiva,Tomate,931.80,16.40,56.82
+"Norte de Santander","San Calixto",Caña,20400.00,360.00,56.67
+Antioquia,Marinilla,"Calabacín, calabaza",5010.00,88.50,56.61
+Antioquia,Barbosa,Caña,284837.00,5045.00,56.46
+Nariño,Consacá,Caña,827445.00,14677.00,56.38
+Cundinamarca,Facatativá,Fresa,119607.30,2124.00,56.31
+Bolívar,Achí,Caña,14600.00,260.00,56.15
+"Valle del Cauca",Vijes,Piña,121386.99,2164.00,56.09
+Antioquia,Medellín,Caña,29046.00,518.60,56.01
+"La Guajira",Maicao,Papaya,1120.00,20.00,56.00
+Cauca,Rosas,Tomate,3366.50,60.40,55.74
+Tolima,Ortega,Caña,218040.00,3912.00,55.74
+Caquetá,"Cartagena del Chairá",Caña,105000.00,1885.00,55.70
+Antioquia,Cañasgordas,Caña,47676.40,856.40,55.67
+Boyacá,Cuítiva,Tomate,1502.00,27.00,55.63
+Boyacá,Boavita,Tomate,10218.00,184.00,55.53
+Antioquia,"Santa Bárbara",Caña,122000.00,2198.00,55.51
+Caquetá,Curillo,Caña,67170.00,1211.00,55.47
+Antioquia,Andes,Caña,61894.00,1117.00,55.41
+Santander,Capitanejo,Tomate,20880.50,377.00,55.39
+Boyacá,Almeida,"Calabacín, calabaza",1052.00,19.00,55.37
+Cundinamarca,Bituima,Caña,110426.25,1994.50,55.37
+Caquetá,Albania,Caña,180260.00,3262.00,55.26
+Casanare,"San Luis de Palenque",Caña,1572.00,28.50,55.16
+Cauca,Argelia,Caña,27086.20,492.50,55.00
+Córdoba,Sahagún,Piña,5390.00,98.00,55.00
+"Norte de Santander","Los Patios",Caña,1202.50,21.90,54.91
+Huila,Algeciras,Caña,125515.50,2287.00,54.88
+"Valle del Cauca","La Unión",Tomate,3134.90,57.20,54.81
+Cundinamarca,Villeta,Caña,663460.00,12116.00,54.76
+Cundinamarca,Tabio,Tomate,782.50,14.30,54.72
+Cundinamarca,Pasca,Tomate,1585.00,29.00,54.66
+Caldas,Pensilvania,Caña,119155.00,2184.00,54.56
+Huila,Rivera,Caña,27472.50,504.25,54.48
+"Norte de Santander",Ábrego,Tomate,197891.25,3632.80,54.47
+Antioquia,Frontino,Caña,611578.13,11232.49,54.45
+"Valle del Cauca",Yumbo,Papaya,3286.50,60.40,54.41
+Meta,Mesetas,Caña,40280.00,745.00,54.07
+Huila,Gigante,Caña,59190.80,1098.25,53.90
+Cundinamarca,Gachetá,Caña,37450.00,695.00,53.88
+Meta,Uribe,Caña,38662.00,718.00,53.85
+Antioquia,Peñol,Pimentón,149854.00,2787.00,53.77
+Tolima,Armero,Caña,32819.30,611.00,53.71
+Caldas,Aranzazu,Caña,22540.00,420.00,53.67
+Chocó,"El Litoral del San Juan",Caña,89395.60,1666.00,53.66
+Santander,Barbosa,Tomate,17360.00,324.00,53.58
+Cauca,Almaguer,Caña,74456.00,1391.00,53.53
+Santander,Florián,Tomate,4547.24,85.00,53.50
+Quindío,Pijao,Caña,15251.20,285.10,53.49
+Meta,"Puerto Rico",Piña,296864.74,5550.00,53.49
+Quindío,"La Tebaida",Piña,175655.00,3287.00,53.44
+Nariño,Samaniego,Caña,171815.00,3227.00,53.24
+"Valle del Cauca",Yotoco,Papaya,4040.00,76.00,53.16
+Antioquia,"Santa Fé de Antioquia",Tomate,611.00,11.50,53.13
+Caquetá,"El Paujíl",Caña,18406.10,347.00,53.04
+Cauca,Guachené,Piña,22408.60,422.72,53.01
+Cesar,"Pueblo Bello",Caña,209836.30,3969.00,52.87
+Risaralda,Santuario,Tomate,4335.00,82.00,52.87
+Caquetá,"El Doncello",Caña,115060.00,2177.00,52.85
+Cauca,Bolívar,Caña,327410.00,6199.00,52.82
+Nariño,"Olaya Herrera",Caña,100096.00,1898.00,52.74
+Antioquia,Sonsón,"Cebolla de bulbo",9690.00,184.00,52.66
+"Norte de Santander",Pamplonita,Tomate,9830.10,186.76,52.63
+Casanare,Támara,Caña,65834.00,1251.00,52.63
+Nariño,Puerres,Caña,4788.00,91.00,52.62
+"Norte de Santander",Pamplonita,Caña,12100.00,230.00,52.61
+Boyacá,Coper,Caña,153930.00,2929.00,52.55
+Antioquia,Anorí,Caña,270270.00,5144.00,52.54
+Boyacá,Labranzagrande,Caña,33759.00,642.80,52.52
+Antioquia,Cocorná,Tomate,210.00,4.00,52.50
+Boyacá,Guayatá,Tomate,5253.00,100.50,52.27
+Cundinamarca,Cucunubá,Tomate,782.00,15.00,52.13
+Vichada,"Puerto Carreño",Caña,16575.00,318.90,51.98
+Huila,Guadalupe,Caña,20465.00,394.50,51.88
+Cundinamarca,Gachalá,Tomate,13017.00,251.00,51.86
+Antioquia,Angelópolis,Tomate,2504.90,48.30,51.86
+Antioquia,Valparaíso,Caña,29305.00,566.00,51.78
+Huila,Paicol,Caña,40209.50,776.50,51.78
+Cauca,Guapi,Caña,72625.00,1405.00,51.69
+Boyacá,"La Victoria",Caña,4651.00,90.00,51.68
+Boyacá,Zetaquira,Tomate,4537.00,88.00,51.56
+Boyacá,Tinjacá,Tomate,17353.00,337.00,51.49
+Risaralda,Marsella,Caña,30115.00,585.00,51.48
+Cundinamarca,Madrid,Fresa,11995.90,233.08,51.47
+Cundinamarca,"San Bernardo",Caña,5660.00,110.00,51.45
+Córdoba,Chinú,Piña,3600.00,70.00,51.43
+Caldas,Risaralda,Tomate,244.70,4.76,51.41
+"Valle del Cauca",Vijes,Tomate,34113.40,663.80,51.39
+Antioquia,Liborina,Tomate,1582.60,30.80,51.38
+Huila,Íquira,Caña,48577.00,946.00,51.35
+Cauca,Patía,Caña,103295.00,2013.50,51.30
+Quindío,Córdoba,Caña,12050.00,235.00,51.28
+Cundinamarca,Quebradanegra,Caña,1117760.00,21806.00,51.26
+Boyacá,Almeida,Caña,21683.00,424.00,51.14
+Caldas,Marmato,"Otros cítricos",409.00,8.00,51.13
+Cauca,Popayán,Caña,234474.00,4587.00,51.12
+Antioquia,Remedios,Caña,77875.00,1525.00,51.07
+Antioquia,Giraldo,Caña,5565.00,109.00,51.06
+Antioquia,"Santa Rosa de Osos",Caña,36555.00,717.00,50.98
+Cundinamarca,Ubaque,Tomate,39451.00,774.00,50.97
+Bolívar,Regidor,Caña,1070.00,21.00,50.95
+Antioquia,Giraldo,"Cebolla de rama",7267.00,142.70,50.93
+Cundinamarca,Fosca,Caña,20392.50,402.00,50.73
+Nariño,Sandoná,Caña,1244540.00,24540.50,50.71
+Quindío,Circasia,Tomate,5633.50,111.30,50.62
+Cauca,Caldono,Caña,78418.80,1551.00,50.56
+Santander,Enciso,Tomate,19000.00,376.00,50.53
+Boyacá,Buenavista,Tomate,13427.00,266.00,50.48
+Arauca,Arauquita,Caña,39652.00,786.00,50.45
+Cundinamarca,Granada,Tomate,5541.00,110.00,50.37
+"Valle del Cauca",Toro,Papaya,6545.00,130.00,50.35
+Cauca,"Sotará Paispamba",Fresa,57990.00,1152.00,50.34
+Boyacá,Páez,Caña,19200.00,382.00,50.26
+Nariño,"La Florida",Caña,59667.50,1190.00,50.14
+Casanare,Monterrey,Piña,4572.00,91.40,50.02
+Cauca,Puracé,Caña,750.00,15.00,50.00
+Caldas,Manzanares,Caña,219400.00,4388.00,50.00
+"Norte de Santander",Ábrego,Caña,8000.00,160.00,50.00
+"Norte de Santander",Durania,Caña,7330.00,146.60,50.00
+Cundinamarca,Nimaima,Caña,531850.00,10637.00,50.00
+Cundinamarca,Topaipí,Caña,59050.00,1181.00,50.00
+Antioquia,Ebéjico,Caña,236500.00,4730.00,50.00
+Antioquia,Abejorral,Caña,64619.50,1292.50,50.00
+Antioquia,Argelia,Caña,33275.00,665.50,50.00
+Antioquia,Bello,Zanahoria,565.00,11.30,50.00
+Antioquia,"La Ceja",Repollo,2245.00,44.90,50.00
+Cundinamarca,Útica,Caña,1035075.00,20701.50,50.00
+Tolima,Rovira,Caña,67100.00,1342.00,50.00
+Santander,"Santa Bárbara",Tomate,400.00,8.00,50.00
+Risaralda,Quinchía,Sábila,50.00,1.00,50.00
+Quindío,Calarcá,Piña,33070.00,661.40,50.00
+"Norte de Santander",Hacarí,Caña,24070.00,482.00,49.94
+Antioquia,Barbosa,Tomate,13081.00,263.00,49.74
+Guaviare,"San José del Guaviare",Caña,160900.00,3236.00,49.72
+Cundinamarca,Guayabetal,Tomate,4200.00,84.50,49.70
+Córdoba,Tierralta,Piña,6705.00,135.00,49.67
+Risaralda,Apía,Caña,4340.00,87.50,49.60
+Cundinamarca,Caparrapí,Caña,3147159.00,63484.00,49.57
+Tolima,Alvarado,Caña,293351.60,5918.00,49.57
+Nariño,Sandoná,Tomate,7460.10,150.60,49.54
+"Valle del Cauca",Ulloa,Piña,4715.00,95.20,49.53
+Nariño,Chachagüí,Caña,5440.00,110.00,49.45
+Caldas,Filadelfia,Caña,541754.00,10959.00,49.43
+Nariño,"Los Andes",Caña,22230.00,450.00,49.40
+Antioquia,Ebéjico,Tomate,2529.00,51.30,49.30
+Casanare,Villanueva,Piña,2365.00,48.00,49.27
+Boyacá,Tibasosa,Tomate,63290.00,1285.00,49.25
+Antioquia,Chigorodó,Piña,188350.20,3825.00,49.24
+Meta,"Puerto Lleras",Caña,26225.00,533.50,49.16
+"Norte de Santander",Teorama,Caña,305864.00,6223.00,49.15
+Sucre,Majagual,Caña,11680.00,238.00,49.08
+Cauca,Timbío,Caña,17354.00,354.00,49.02
+Tolima,Dolores,Caña,31222.88,638.00,48.94
+Santander,"Los Santos",Piña,25128.00,514.00,48.89
+Antioquia,Granada,Tomate,1641.50,33.60,48.85
+Cundinamarca,Guaduas,Caña,270272.00,5534.00,48.84
+Cauca,"La Vega",Caña,273360.00,5601.00,48.81
+Casanare,Aguazul,Caña,25170.00,516.00,48.78
+Caquetá,Florencia,Caña,209020.00,4297.00,48.64
+Santander,Sucre,Tomate,842.81,17.35,48.58
+Sucre,Palmito,Caña,11169.00,230.00,48.56
+Antioquia,"San Jerónimo",Caña,3227.50,66.50,48.53
+Antioquia,Pueblorrico,Tomate,2844.00,58.60,48.53
+Nariño,Cumbitara,Caña,27129.00,560.00,48.44
+Boyacá,Betéitiva,Tomate,1064.00,22.00,48.36
+"Valle del Cauca","Guadalajara de Buga",Piña,11830.00,245.00,48.29
+Cundinamarca,Sopó,Fresa,2267.38,47.00,48.24
+Risaralda,Mistrató,Caña,48542.60,1009.80,48.07
+"Norte de Santander",Ragonvalia,Caña,39012.00,812.75,48.00
+"Norte de Santander",Ocaña,Tomate,127200.00,2650.00,48.00
+Magdalena,Guamal,Melón,12.00,0.25,48.00
+Antioquia,Sonsón,Zanahoria,23806.00,496.00,48.00
+Meta,"Fuente de Oro",Piña,191019.25,3980.45,47.99
+"Valle del Cauca","El Cairo",Tomate,1425.00,29.70,47.98
+Cauca,Bolívar,Tomate,16547.50,345.00,47.96
+Cundinamarca,Suesca,Tomate,670.50,14.00,47.89
+Cauca,Totoró,Caña,49710.00,1040.00,47.80
+Santander,Lebrija,Piña,1696829.99,35498.99,47.80
+Cesar,"Río de Oro",Caña,30465.00,637.50,47.79
+Putumayo,"San Miguel",Papaya,214.50,4.50,47.67
+Caldas,Riosucio,Caña,414326.00,8696.00,47.65
+Cundinamarca,Yacopí,Caña,411395.50,8633.00,47.65
+Cauca,"La Vega",Tomate,285.00,6.00,47.50
+Antioquia,"San Roque",Caña,1012700.00,21321.50,47.50
+Cundinamarca,Guayabetal,Caña,25160.00,530.00,47.47
+Cundinamarca,Pulí,Caña,49931.00,1053.50,47.40
+Risaralda,Pereira,"Cebolla de rama",66340.39,1400.39,47.37
+Antioquia,Cocorná,Caña,213892.80,4518.00,47.34
+Cundinamarca,Paime,Caña,94730.00,2002.00,47.32
+Vichada,"La Primavera",Caña,5818.00,123.00,47.30
+"Valle del Cauca",Palmira,Tomate,5462.50,115.60,47.25
+Tolima,Ibagué,Tomate,56665.00,1202.00,47.14
+Cundinamarca,"La Mesa",Caña,31528.33,669.00,47.13
+Boyacá,Tópaga,Tomate,6785.00,144.00,47.12
+Antioquia,Retiro,Fresa,1437.00,30.50,47.11
+Nariño,"El Tablón de Gómez",Caña,7770.00,165.00,47.09
+"Valle del Cauca","El Dovio",Sábila,1972.80,41.90,47.08
+"Norte de Santander","Villa del Rosario",Caña,1600.00,34.00,47.06
+Nariño,"San Pedro de Cartago",Tomate,4608.00,98.00,47.02
+Boyacá,Guayatá,"Calabacín, calabaza",12830.00,273.50,46.91
+Meta,"San Juan de Arama",Piña,34706.00,742.00,46.77
+"Valle del Cauca","La Cumbre",Tomate,69089.60,1478.30,46.74
+"Valle del Cauca","El Águila",Caña,10650.00,228.00,46.71
+Caquetá,"La Montañita",Caña,33800.00,724.00,46.69
+Cundinamarca,Supatá,Tomate,2123.00,45.50,46.66
+Tolima,Planadas,Caña,117199.00,2512.80,46.64
+Chocó,Nóvita,Caña,111393.00,2389.00,46.63
+Meta,"San Juan de Arama",Caña,4660.00,100.00,46.60
+Nariño,Ricaurte,Caña,314960.00,6760.00,46.59
+Antioquia,"El Carmen de Viboral",Repollo,33526.00,720.00,46.56
+Nariño,Funes,Tomate,660.50,14.20,46.51
+Caldas,Chinchiná,Caña,21000.00,452.00,46.46
+Santander,Betulia,Tomate,19547.00,421.10,46.42
+Cesar,"La Paz",Caña,62390.00,1345.00,46.39
+Antioquia,Caramanta,Caña,81503.70,1759.00,46.34
+Antioquia,Giraldo,Tomate,333.00,7.20,46.25
+Nariño,Cumbal,Caña,14785.00,320.00,46.20
+Antioquia,Peque,Caña,26204.00,568.00,46.13
+Caldas,Marquetalia,Caña,44036.59,956.00,46.06
+"Valle del Cauca",Versalles,Tomate,4140.00,90.00,46.00
+"Norte de Santander",Convención,Caña,802798.00,17506.00,45.86
+Boyacá,Pauna,Caña,97040.00,2122.00,45.73
+"Valle del Cauca",Sevilla,Tomate,25738.00,563.00,45.72
+Cundinamarca,Fosca,Tomate,1188.00,26.00,45.69
+Santander,"Jesús María",Caña,22980.00,503.00,45.69
+Cundinamarca,Sasaima,Caña,138485.00,3035.00,45.63
+Boyacá,Tenza,Caña,9662.40,212.00,45.58
+Casanare,Sabanalarga,Tomate,306.70,6.73,45.57
+Cundinamarca,Pandi,Tomate,6897.20,151.50,45.53
+"Valle del Cauca",Alcalá,Papaya,5227.09,114.90,45.49
+Boyacá,"San Eduardo",Caña,28693.00,631.00,45.47
+Cundinamarca,Simijaca,Zanahoria,17665.00,389.00,45.41
+Boyacá,Gachantivá,Caña,46864.00,1032.50,45.39
+Nariño,Buesaco,Caña,20060.00,444.00,45.18
+Tolima,Herveo,Caña,73048.00,1618.00,45.15
+"Norte de Santander",Cáchira,Caña,7980.00,177.00,45.08
+"Norte de Santander",Gramalote,Caña,39825.00,885.00,45.00
+"Norte de Santander",Cucutilla,Caña,153999.00,3422.20,45.00
+"Valle del Cauca",Toro,Piña,990.00,22.00,45.00
+Antioquia,Sonsón,Caña,210420.00,4676.00,45.00
+Antioquia,Yalí,Caña,348840.00,7752.00,45.00
+Chocó,"Nuevo Belén de Bajirá *",Caña,6300.00,140.00,45.00
+Cundinamarca,Chaguaní,Caña,141220.00,3138.00,45.00
+Casanare,Maní,Piña,180.00,4.00,45.00
+Santander,Girón,Piña,874796.00,19454.00,44.97
+Caquetá,Solano,Caña,30118.00,671.00,44.89
+Caquetá,"San José del Fragua",Caña,245390.00,5472.00,44.84
+Casanare,Sabanalarga,Caña,8147.94,181.70,44.84
+Cundinamarca,Gutiérrez,Caña,31612.00,705.00,44.84
+Antioquia,Montebello,Caña,5020.00,112.00,44.82
+Casanare,Recetor,Caña,32020.00,715.00,44.78
+"Valle del Cauca",Roldanillo,Papaya,20486.00,457.72,44.76
+Cundinamarca,Supatá,Caña,52392.50,1172.00,44.70
+Antioquia,Angelópolis,Caña,19788.80,443.00,44.67
+Antioquia,Uramita,Caña,146055.00,3272.00,44.64
+"Valle del Cauca",Trujillo,Tomate,5575.50,125.20,44.53
+Nariño,Guaitarilla,Caña,21196.00,477.00,44.44
+Sucre,"La Unión",Caña,4395.00,99.00,44.39
+Cundinamarca,"El Peñón",Caña,146700.00,3305.00,44.39
+Cundinamarca,"La Mesa",Guatila,795.00,18.00,44.17
+Nariño,"La Llanada",Caña,1536.00,34.80,44.14
+Santander,Hato,Piña,1324.00,30.00,44.13
+"Valle del Cauca","El Dovio",Tomate,44567.78,1011.30,44.07
+Antioquia,Tarso,Caña,4968.30,112.80,44.05
+Quindío,Salento,Tomate,2475.80,56.20,44.05
+Antioquia,"Gómez Plata",Caña,53460.00,1215.00,44.00
+"Valle del Cauca",Alcalá,Mandarina,19180.38,437.50,43.84
+Antioquia,Guadalupe,"Cebolla de rama",696.00,15.90,43.77
+Boyacá,Socotá,Caña,28665.00,657.00,43.63
+Antioquia,"San Pedro de Los Milagros","Tomate de árbol",15782.40,362.20,43.57
+Cundinamarca,Viotá,Caña,6356.00,146.00,43.53
+Tolima,Alvarado,Piña,435.00,10.00,43.50
+Cundinamarca,"San Antonio del Tequendama",Tomate,1219.00,28.10,43.38
+Boyacá,Soatá,Caña,6665.50,153.70,43.37
+Antioquia,"El Carmen de Viboral",Fresa,40481.25,935.00,43.30
+Boyacá,Duitama,Repollo,5357.90,123.80,43.28
+Casanare,Pore,Caña,3460.00,80.00,43.25
+Santander,"San Andrés",Tomate,4973.00,115.00,43.24
+"Valle del Cauca",Andalucía,Tomate,642.65,14.89,43.16
+Antioquia,"El Carmen de Viboral",Caña,37075.00,859.50,43.14
+"Valle del Cauca",Vijes,Papaya,10908.00,253.00,43.11
+"Valle del Cauca",Florida,Tomate,16321.10,379.30,43.03
+Antioquia,"San Rafael",Caña,166950.00,3882.00,43.01
+Caquetá,Milán,Caña,98210.00,2285.00,42.98
+Antioquia,Guarne,Lechuga,7339.00,171.00,42.92
+Antioquia,"San Francisco",Caña,17980.00,419.00,42.91
+Cundinamarca,Quipile,Caña,591310.00,13792.00,42.87
+Tolima,"San Sebastián de Mariquita",Caña,632190.00,14756.00,42.84
+Cauca,Suárez,Caña,45176.40,1055.00,42.82
+Cauca,Miranda,Naranja,8815.00,207.00,42.58
+Nariño,Leiva,Caña,3928.00,92.30,42.56
+"Valle del Cauca","Santiago de Cali",Tomate,5352.60,125.80,42.55
+Boyacá,Sogamoso,Tomate,2125.00,50.00,42.50
+Cundinamarca,"La Palma",Caña,240451.00,5659.40,42.49
+Sucre,"San Marcos",Caña,31420.00,741.00,42.40
+Boyacá,Corrales,Tomate,10862.00,256.30,42.38
+Antioquia,Nariño,Caña,323094.50,7639.50,42.29
+Boyacá,Guayatá,Caña,22872.00,541.00,42.28
+Caldas,Samaná,Caña,403660.00,9559.90,42.22
+Nariño,Chachagüí,Tomate,1712.50,40.60,42.18
+Nariño,Córdoba,Caña,2910.00,69.00,42.17
+"Valle del Cauca","La Unión",Piña,404.00,9.60,42.08
+Cundinamarca,Medina,Caña,5092.00,121.00,42.08
+Cauca,Balboa,Caña,57570.00,1368.00,42.08
+Cesar,"Agustín Codazzi",Caña,88792.00,2112.00,42.04
+Cauca,"El Tambo",Caña,793547.83,18877.00,42.04
+"Valle del Cauca",Bolívar,Melón,14699.00,350.00,42.00
+Antioquia,Heliconia,Lechuga,92.40,2.20,42.00
+Antioquia,Yarumal,Caña,68069.40,1620.70,42.00
+Boyacá,Tenza,Tomate,18589.30,442.80,41.98
+Boyacá,Macanal,Tomate,1646.50,39.25,41.95
+Huila,Yaguará,Caña,650.00,15.50,41.94
+Antioquia,Guadalupe,Caña,65959.00,1574.00,41.91
+"Norte de Santander",Chinácota,Caña,7230.00,173.00,41.79
+Meta,"Puerto Concordia",Piña,71405.50,1709.00,41.78
+Cauca,Páez,Caña,106625.95,2552.40,41.77
+Cundinamarca,"El Rosal",Zanahoria,62756.00,1503.00,41.75
+Casanare,"Paz de Ariporo",Caña,2792.00,67.00,41.67
+Nariño,Policarpa,Caña,9200.00,221.00,41.63
+Boyacá,Maripí,Caña,220659.96,5302.00,41.62
+"Norte de Santander",Arboledas,Caña,199749.00,4804.00,41.58
+Quindío,Montenegro,Caña,6395.00,154.00,41.53
+Santander,Tona,"Cebolla de rama",731610.00,17640.00,41.47
+Antioquia,"El Carmen de Viboral",Zanahoria,41270.00,996.00,41.44
+Bolívar,Turbaco,Caña,9527.28,229.90,41.44
+"Valle del Cauca",Pradera,Ají,870.00,21.00,41.43
+"Valle del Cauca","El Dovio",Repollo,22778.30,554.70,41.06
+Casanare,"La Salina",Caña,9742.00,238.00,40.93
+Chocó,"Medio San Juan",Caña,31590.00,772.00,40.92
+Bolívar,Montecristo,Patilla,14917.00,365.00,40.87
+Chocó,Riosucio,Caña,60450.00,1481.00,40.82
+Tolima,Icononzo,Caña,7990.64,196.00,40.77
+Boyacá,Guacamayas,Caña,3750.00,92.00,40.76
+"Norte de Santander","La Playa",Caña,3420.00,84.00,40.71
+Cundinamarca,"La Vega",Caña,74030.00,1819.00,40.70
+Antioquia,Envigado,Fresa,1435.00,35.28,40.67
+Cauca,"Santander de Quilichao",Piña,93618.76,2303.52,40.64
+Caldas,Villamaría,Fresa,1950.00,48.00,40.63
+Boyacá,Pajarito,Caña,10294.05,253.50,40.61
+"Norte de Santander",Ragonvalia,Tomate,3434.40,84.60,40.60
+Nariño,"El Rosario",Caña,26910.00,664.00,40.53
+Cundinamarca,Chocontá,Fresa,35355.10,872.50,40.52
+Nariño,"Cuaspud Carlosama",Lechuga,646.00,16.00,40.38
+Cauca,"López de Micay",Caña,159586.34,3953.90,40.36
+Meta,"Barranca de Upía",Piña,1612.00,40.00,40.30
+Sucre,Ovejas,Piña,1450.50,36.00,40.29
+Antioquia,Amalfi,Caña,215310.00,5344.00,40.29
+Tolima,"Valle de San Juan",Caña,21970.00,546.00,40.24
+Santander,"San Gil",Piña,8284.00,206.00,40.21
+Cauca,Miranda,Piña,7956.00,198.00,40.18
+Cesar,"San Alberto",Tomate,3074.00,76.50,40.18
+Antioquia,Yarumal,"Tomate de árbol",14804.70,368.60,40.16
+Magdalena,"Santa Marta",Banano,341731.66,8521.93,40.10
+Magdalena,"Zona Bananera",Banano,3660880.00,91522.00,40.00
+Magdalena,Ciénaga,Banano,362520.00,9063.00,40.00
+Antioquia,Ituango,Caña,154200.00,3855.00,40.00
+Antioquia,"El Santuario",Repollo,28440.00,711.00,40.00
+Atlántico,Luruaco,Melón,320.00,8.00,40.00
+Antioquia,Entrerríos,Zanahoria,25600.00,640.00,40.00
+Antioquia,Vegachí,Caña,436280.00,10907.00,40.00
+Nariño,"Roberto Payán",Caña,69520.00,1738.00,40.00
+"Norte de Santander","El Tarra",Caña,5040.00,126.00,40.00
+Meta,Lejanías,Papaya,2400.00,60.00,40.00
+"Norte de Santander","El Carmen",Tomate,14932.00,373.30,40.00
+Meta,"Puerto Lleras",Piña,14000.00,350.00,40.00
+Meta,"San Juanito",Caña,22680.00,567.00,40.00
+"Norte de Santander",Ocaña,Caña,9120.00,228.00,40.00
+"Norte de Santander",Lourdes,Caña,23680.00,592.00,40.00
+"Norte de Santander",Bochalema,Papaya,40.00,1.00,40.00
+Cundinamarca,"San Francisco",Caña,1252.40,31.31,40.00
+Cundinamarca,"La Peña",Caña,1289280.00,32231.00,40.00
+Córdoba,Buenavista,Caña,28560.00,714.00,40.00
+Cundinamarca,Chocontá,"Cebolla de bulbo",760.00,19.00,40.00
+Boyacá,Sotaquirá,Fresa,140.00,3.50,40.00
+Boyacá,Macanal,"Calabacín, calabaza",80.00,2.00,40.00
+Boyacá,Tibaná,Manzana,77360.00,1934.00,40.00
+"Valle del Cauca",Yumbo,Berenjena,25.60,0.64,40.00
+"Valle del Cauca",Restrepo,Ají,2100.00,52.50,40.00
+Tolima,"Carmen de Apicalá",Patilla,800.00,20.00,40.00
+"Valle del Cauca",Ansermanuevo,"Otros cítricos",1360.00,34.00,40.00
+Tolima,"San Antonio",Caña,2640.00,66.00,40.00
+Santander,"Santa Bárbara","Pepino Cohombro",400.00,10.00,40.00
+"Norte de Santander",Santiago,Caña,19360.00,484.00,40.00
+Quindío,Filandia,Piña,200.00,5.00,40.00
+"Norte de Santander",Sardinata,Caña,331900.00,8297.50,40.00
+Putumayo,"San Miguel",Patilla,200.00,5.00,40.00
+Quindío,Armenia,Piña,33190.40,829.76,40.00
+Quindío,Montenegro,Piña,41607.70,1041.00,39.97
+Nariño,"San Andrés de Tumaco",Caña,115263.38,2883.40,39.97
+Antioquia,Caracolí,Caña,7468.00,187.00,39.94
+Antioquia,Yolombó,Caña,1211865.00,30382.00,39.89
+Quindío,Génova,Caña,2451.00,61.50,39.85
+Boyacá,Tipacoque,Caña,2550.00,64.00,39.84
+Cundinamarca,Gachancipá,Fresa,2753.80,69.20,39.79
+Antioquia,"El Santuario",Zanahoria,253535.00,6384.00,39.71
+Nariño,Providencia,Caña,4762.00,120.00,39.68
+Risaralda,Pereira,Tomate,27177.73,685.06,39.67
+Cauca,"La Sierra",Tomate,4878.00,123.00,39.66
+Cundinamarca,Manta,Tomate,9753.00,246.00,39.65
+Antioquia,Donmatías,"Tomate de árbol",47491.05,1199.00,39.61
+Meta,"Puerto López",Papaya,43168.00,1090.00,39.60
+Cesar,"Pueblo Bello",Tomate,8515.00,215.00,39.60
+"Norte de Santander","San Calixto",Piña,7680.00,194.00,39.59
+Casanare,Pore,Piña,2928.20,74.00,39.57
+Tolima,Rovira,Tomate,3539.00,89.50,39.54
+Risaralda,Guática,Caña,9760.00,247.00,39.51
+Cesar,"La Jagua de Ibirico",Tomate,21036.00,533.00,39.47
+Cundinamarca,"Guayabal de Síquima",Caña,50277.20,1274.40,39.45
+Boyacá,Somondoco,Caña,4536.48,115.00,39.45
+Chocó,"Medio Atrato",Caña,78980.00,2004.00,39.41
+Antioquia,"Santa Fé de Antioquia",Papaya,157.50,4.00,39.38
+Cundinamarca,Lenguazaque,Fresa,2126.00,54.00,39.37
+Meta,"El Calvario",Tomate,1692.00,43.00,39.35
+Cundinamarca,Tibirita,Tomate,1337.00,34.00,39.32
+Antioquia,Campamento,Caña,1081326.00,27516.00,39.30
+Magdalena,Aracataca,Banano,185044.00,4711.00,39.28
+Boyacá,Aquitania,"Cebolla de rama",891810.00,22705.00,39.28
+Antioquia,Apartadó,Banano,2951090.70,75197.90,39.24
+Cundinamarca,Zipacón,Fresa,12286.50,313.50,39.19
+Santander,Enciso,Caña,4938.00,126.00,39.19
+Cundinamarca,Simijaca,Fresa,450.00,11.50,39.13
+Santander,Oiba,Tomate,1799.50,46.00,39.12
+Quindío,Quimbaya,Piña,9903.70,253.40,39.08
+Antioquia,"San Jerónimo","Cebolla de rama",26621.00,681.40,39.07
+Meta,"Puerto Lleras",Papaya,11522.00,295.00,39.06
+Bolívar,"San Pablo",Caña,6400.50,164.00,39.03
+"Valle del Cauca",Argelia,Caña,15232.00,390.50,39.01
+Cundinamarca,Anapoima,Caña,74611.00,1913.80,38.99
+Cundinamarca,Funza,Fresa,10085.00,259.00,38.94
+"Norte de Santander",Bucarasica,Caña,15182.00,391.00,38.83
+"Norte de Santander",Bochalema,Caña,14670.00,378.00,38.81
+Antioquia,Andes,Tomate,4338.69,111.80,38.81
+Cauca,Piamonte,Caña,17430.80,451.00,38.65
+"Valle del Cauca","El Águila",Tomate,451.50,11.70,38.59
+Bolívar,"San Jacinto",Caña,13500.00,350.00,38.57
+"Valle del Cauca","Guadalajara de Buga",Tomate,5202.00,135.00,38.53
+Antioquia,"San Vicente Ferrer",Fresa,3039.50,79.00,38.47
+Meta,Villavicencio,Piña,71484.50,1863.00,38.37
+Córdoba,"San Carlos",Guayaba,30694.00,802.00,38.27
+Cundinamarca,Pacho,Caña,4928.00,129.00,38.20
+Bolívar,"San Jacinto",Papaya,2175.00,57.00,38.16
+Boyacá,Zetaquira,Caña,32586.00,856.00,38.07
+Meta,"Puerto López",Caña,5225507.00,137362.00,38.04
+Santander,"Jesús María",Tomate,1940.00,51.00,38.04
+Cundinamarca,"La Vega",Tomate,913.00,24.00,38.04
+Tolima,Anzoátegui,Tomate,10359.00,272.50,38.01
+Santander,Barichara,Piña,7398.50,195.00,37.94
+Cundinamarca,Quetame,Tomate,24156.50,637.50,37.89
+Nariño,Barbacoas,Caña,18375.00,485.00,37.89
+Risaralda,Guática,Sábila,1742.00,46.00,37.87
+Santander,Albania,Caña,14411.20,381.00,37.82
+Nariño,"San Lorenzo",Caña,119511.00,3175.00,37.64
+Cundinamarca,Tausa,Zanahoria,101115.00,2687.00,37.63
+Santander,Enciso,Sábila,2819.20,75.00,37.59
+Antioquia,Chigorodó,Banano,898406.86,23927.00,37.55
+"Valle del Cauca",Ulloa,Papaya,311.50,8.30,37.53
+Putumayo,"Puerto Leguízamo",Caña,73881.00,1974.00,37.43
+Boyacá,Pachavita,Caña,19406.40,519.00,37.39
+"Valle del Cauca","La Cumbre",Repollo,4092.20,109.60,37.34
+Casanare,Yopal,Piña,20128.50,539.00,37.34
+Meta,"Puerto Gaitán",Caña,15703.20,421.00,37.30
+Boyacá,Tibaná,Caña,32163.00,863.00,37.27
+Cundinamarca,Cota,Remolacha,1310.50,35.17,37.26
+Nariño,Potosí,Lechuga,151914.84,4081.00,37.22
+Antioquia,Cisneros,Caña,232200.00,6242.00,37.20
+Antioquia,Murindó,Caña,7616.72,205.00,37.15
+Caldas,Riosucio,Tomate,512.40,13.80,37.13
+"Norte de Santander",Durania,Tomate,1563.25,42.25,37.00
+Quindío,Armenia,Tomate,14425.00,390.00,36.99
+Cundinamarca,Anolaima,Caña,13641.00,369.00,36.97
+Santander,Guapotá,Tomate,513.20,13.90,36.92
+Antioquia,Maceo,Caña,119500.00,3238.00,36.91
+Boyacá,Rondón,Tomate,2104.00,57.00,36.91
+"Norte de Santander",Mutiscua,Fresa,9944.00,270.00,36.83
+Nariño,Consacá,Tomate,4539.70,123.35,36.80
+Santander,Hato,Patilla,220.00,6.00,36.67
+Antioquia,Jericó,Naranja,15685.00,428.00,36.65
+Boyacá,"Villa de Leyva",Manzana,670.37,18.31,36.61
+Boyacá,"San José de Pare",Tomate,860.00,23.50,36.60
+Córdoba,Sahagún,Caña,104280.00,2850.00,36.59
+Cundinamarca,Villagómez,Caña,28915.00,793.00,36.46
+Santander,Vélez,Tomate,1664.40,45.68,36.44
+Sucre,"San Marcos",Piña,3535.00,97.00,36.44
+Magdalena,"El Retén",Banano,386312.00,10606.00,36.42
+Boyacá,Somondoco,Tomate,2789.60,76.70,36.37
+Antioquia,Carepa,Banano,2702520.77,74459.70,36.30
+"Norte de Santander",Chitagá,Caña,24609.30,681.00,36.14
+Caquetá,Solita,Caña,31332.00,869.00,36.06
+Caldas,Supía,Tomate,6807.00,188.80,36.05
+Meta,"Fuente de Oro",Papaya,856.39,23.79,36.00
+Antioquia,Carolina,"Tomate de árbol",36.00,1.00,36.00
+Risaralda,Marsella,Naranja,31914.00,886.50,36.00
+Antioquia,Abriaquí,Caña,33340.80,926.90,35.97
+Antioquia,Briceño,Caña,28495.00,793.00,35.93
+"Valle del Cauca","El Cerrito",Repollo,7673.40,213.54,35.93
+Boyacá,"San Mateo",Caña,9054.40,252.00,35.93
+Cesar,González,Pimentón,4412.45,122.85,35.92
+"Norte de Santander",Convención,Tomate,19110.00,532.00,35.92
+Nariño,"La Cruz",Tomate,2548.80,71.00,35.90
+Antioquia,Andes,"Pepino Cohombro",448.34,12.50,35.87
+"Norte de Santander",Lourdes,Tomate,1557.00,43.50,35.79
+Huila,Saladoblanco,Tomate,3238.00,90.50,35.78
+Boyacá,Sutatenza,Caña,8569.16,239.50,35.78
+Cundinamarca,Quetame,Caña,23464.00,656.00,35.77
+Boyacá,Moniquirá,Tomate,1566.25,43.80,35.76
+Antioquia,"San Andrés de Cuerquía",Caña,18343.50,513.50,35.72
+Chocó,Condoto,Caña,3785.00,106.00,35.71
+Chocó,Cértegui,Caña,3462.00,97.00,35.69
+Cundinamarca,Mosquera,Remolacha,13725.00,385.00,35.65
+"Valle del Cauca",Alcalá,"Otros cítricos",14117.60,396.60,35.60
+Antioquia,Granada,Caña,102682.00,2886.00,35.58
+Boyacá,Saboyá,Remolacha,160.00,4.50,35.56
+Cundinamarca,Cogua,Fresa,2488.00,70.00,35.54
+Casanare,Tauramena,Piña,45604.00,1283.50,35.53
+Santander,"San Andrés",Zanahoria,746.00,21.00,35.52
+"Valle del Cauca",Ginebra,Tomate,6185.50,174.30,35.49
+Caldas,Aguadas,Repollo,3165.50,89.30,35.45
+"Valle del Cauca",Caicedonia,Piña,3975.00,112.20,35.43
+Cundinamarca,Simijaca,"Cebolla de bulbo",24660.00,697.00,35.38
+Huila,Pital,Repollo,476.90,13.50,35.33
+Santander,Mogotes,Tomate,8031.00,227.40,35.32
+"Norte de Santander",Salazar,Caña,16905.00,478.80,35.31
+Meta,"San Martín",Caña,8287.00,235.00,35.26
+Córdoba,Chinú,Caña,10598.00,301.00,35.21
+Nariño,"El Tambo","Cebolla de bulbo",1443.00,41.00,35.20
+"Valle del Cauca","La Victoria","Otros cítricos",8505.00,242.00,35.14
+Antioquia,Támesis,Caña,36157.00,1028.80,35.14
+Cauca,Puracé,Fresa,14990.22,427.20,35.09
+Meta,"San Martín",Papaya,4308.00,123.00,35.02
+Bolívar,"San Estanislao",Melón,5095.00,145.50,35.02
+Cundinamarca,Zipacón,Tomate,3536.00,101.00,35.01
+Caldas,Belalcázar,"Otros cítricos",12495.00,357.00,35.00
+Cesar,Valledupar,Caña,203280.00,5808.00,35.00
+Antioquia,Pueblorrico,Caña,42700.00,1220.00,35.00
+"Valle del Cauca","El Cairo",Pimentón,35.00,1.00,35.00
+"Valle del Cauca",Restrepo,"Pepino Cohombro",1277.50,36.50,35.00
+"Valle del Cauca",Restrepo,"Otros cítricos",1260.00,36.00,35.00
+"Norte de Santander","Villa del Rosario",Papaya,350.00,10.00,35.00
+Santander,Capitanejo,Sábila,350.00,10.00,35.00
+Santander,Palmar,Tomate,70.00,2.00,35.00
+Putumayo,"Valle del Guamuez","Otros cítricos",525.00,15.00,35.00
+Bolívar,Mahates,Patilla,420.00,12.00,35.00
+Meta,Mesetas,Piña,3325.00,95.00,35.00
+"Norte de Santander",Cácota,Fresa,3115.00,89.00,35.00
+"Norte de Santander","El Zulia",Tomate,11207.50,320.50,34.97
+Cundinamarca,Sesquilé,Papa,488592.00,13977.00,34.96
+Cauca,Timbiquí,Caña,85600.00,2450.00,34.94
+"Valle del Cauca",Yumbo,Tomate,5494.60,157.44,34.90
+Santander,Hato,Tomate,279.00,8.00,34.88
+"Norte de Santander","El Zulia",Patilla,5167.00,148.20,34.87
+Cundinamarca,Guasca,Fresa,10910.00,313.00,34.86
+Boyacá,Samacá,Tomate,6133.34,176.00,34.85
+Nariño,Colón,Caña,179250.00,5145.00,34.84
+Antioquia,Donmatías,Caña,25721.00,739.00,34.81
+Nariño,"Cuaspud Carlosama","Calabacín, calabaza",268.90,7.75,34.70
+"Valle del Cauca",Candelaria,Tomate,2183.50,63.00,34.66
+Nariño,Nariño,Caña,935.00,27.00,34.63
+Nariño,Contadero,"Cebolla de bulbo",2077.00,60.00,34.62
+"Valle del Cauca","La Victoria",Mandarina,16634.01,480.75,34.60
+Boyacá,Otanche,Caña,31078.00,899.00,34.57
+Putumayo,Colón,Tomate,25.92,0.75,34.56
+Cundinamarca,"San Juan de Rioseco",Caña,53660.00,1553.00,34.55
+Santander,"La Belleza",Tomate,3629.00,105.40,34.43
+Córdoba,"Pueblo Nuevo",Piña,997.00,29.00,34.38
+Santander,Vélez,Papa,9005.00,262.00,34.37
+Cundinamarca,Arbeláez,Caña,8583.28,249.88,34.35
+"Norte de Santander",Labateca,Caña,78420.00,2284.00,34.33
+"Valle del Cauca",Cartago,Naranja,53738.42,1566.85,34.30
+Antioquia,Turbo,Banano,2545377.80,74208.00,34.30
+"Valle del Cauca","La Unión",Papaya,13490.96,393.82,34.26
+Santander,Curití,Tomate,8554.30,250.00,34.22
+"Norte de Santander",Hacarí,Tomate,15088.69,441.40,34.18
+Putumayo,Santiago,Tomate,1764.30,51.73,34.11
+"Valle del Cauca",Jamundí,Naranja,60855.85,1786.20,34.07
+Cundinamarca,Ubalá,Caña,52980.00,1556.00,34.05
+Boyacá,Sora,"Cebolla de bulbo",35980.00,1058.00,34.01
+"Norte de Santander",Pamplona,Fresa,10132.00,298.00,34.00
+Cundinamarca,Nemocón,Fresa,4237.00,125.00,33.90
+Antioquia,Toledo,"Tomate de árbol",740.00,22.00,33.64
+Sucre,Galeras,Caña,10528.80,313.00,33.64
+"Valle del Cauca",Ginebra,Papaya,3462.00,103.00,33.61
+Meta,"El Castillo",Caña,2050.00,61.00,33.61
+Antioquia,Sonsón,"Cebolla de rama",36029.90,1077.00,33.45
+Antioquia,"La Unión",Zanahoria,87273.69,2617.33,33.34
+Casanare,Tauramena,Naranja,6030.00,181.00,33.31
+Nariño,Túquerres,Caña,1445.20,43.40,33.30
+Caquetá,"Belén de Los Andaquíes",Caña,37980.00,1141.00,33.29
+Guaviare,"El Retorno",Caña,87625.00,2640.00,33.19
+Quindío,Montenegro,Tomate,11837.20,356.80,33.18
+Santander,Aguada,Caña,13100.00,395.00,33.16
+"Valle del Cauca",Vijes,"Pepino Cohombro",1442.50,43.50,33.16
+Cauca,Sucre,Caña,11072.40,334.00,33.15
+Cundinamarca,Fusagasugá,Tomate,34026.50,1027.00,33.13
+Risaralda,Guática,Repollo,175.50,5.30,33.11
+Casanare,Yopal,Caña,6488.00,196.00,33.10
+Casanare,"Paz de Ariporo",Piña,695.00,21.00,33.10
+Boyacá,Briceño,Caña,25120.00,759.00,33.10
+Santander,Capitanejo,Papaya,4103.20,124.00,33.09
+Antioquia,Concordia,Tomate,42180.00,1277.00,33.03
+Antioquia,Envigado,"Tomate de árbol",1086.10,32.90,33.01
+Cundinamarca,Guachetá,Fresa,660.00,20.00,33.00
+Cundinamarca,Madrid,Zanahoria,116466.25,3539.20,32.91
+Santander,Suaita,Tomate,12180.16,371.80,32.76
+Cauca,Corinto,Piña,1900.00,58.00,32.76
+Caquetá,Valparaíso,Caña,11904.00,364.00,32.70
+Boyacá,Duitama,Lechuga,5503.20,168.28,32.70
+Bolívar,"El Carmen de Bolívar",Caña,4804.94,147.00,32.69
+Meta,Uribe,Patilla,523.00,16.00,32.69

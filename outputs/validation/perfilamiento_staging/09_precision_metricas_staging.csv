@@ -1,0 +1,5 @@
+﻿columna,tipo_numerico_observado,minimo,maximo,media,mediana,max_decimales_observados,valores_nulos
+area_sembrada,decimal,0.0,77630.0,228.46848745291845,20.0,15,0
+area_cosechada,decimal,0.0,77630.0,208.9915662260394,17.0,15,0
+produccion,decimal,0.0,4776340.5,3189.635524014586,100.0,15,0
+rendimiento,decimal,0.0,253.0,10.601229338099465,6.0,15,0

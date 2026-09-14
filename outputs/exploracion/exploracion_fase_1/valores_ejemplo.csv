@@ -1,0 +1,19 @@
+﻿columna,ejemplos
+Código Dane departamento,5 | 8 | 13 | 70 | 47 | 23 | 15 | 17 | 18 | 19
+Departamento,Antioquia | Atlántico | Bolívar | Sucre | Magdalena | Córdoba | Boyacá | Caldas | Caquetá | Cauca
+Código Dane municipio,5001 | 5002 | 5004 | 5021 | 5030 | 5031 | 5034 | 5036 | 5038 | 5040
+Municipio,Medellín | Abejorral | Abriaquí | Alejandría | Amagá | Amalfi | Andes | Angelópolis | Angostura | Anorí
+Grupo cultivo,"Hortalizas | Leguminosas | Frutales | Cultivos tropicales tradicionales | Raíces y tubérculos | Cultivos para condimentos, bebidas medicinales y aromáticas | Cereales | Oleaginosas"
+Subgrupo,Hortalizas de tallo | Leguminosas | Demás frutales | Hortalizas de flor | Cultivos tropicales tradicionales | Hortalizas de raíz | Hortalizas de hoja | Mirtáceas | Cítricos | Hortalizas
+Cultivo,Apio | Arveja | Brevo | Brócoli | Café | Caña | Cebolla de bulbo | Cebolla de rama | Cilantro | Col
+Desagregación cultivo,Apio | Arveja | Brevo | Brócoli | Café | Caña panelera | Cebolla de bulbo | Cebolla de rama | Cilantro | Col
+Año,2021 | 2022 | 2023 | 2024 | 2025 | 2019 | 2020
+Periodo,2021A | 2021B | 2022A | 2022B | 2023A | 2023B | 2024A | 2024B | 2025A | 2025B
+Área sembrada,"8,00 | 6,00 | 7,00 | 5,50 | 0,16 | 0,40 | 0,50 | 15,00 | 12,00 | 7,20"
+Área cosechada,"8,00 | 7,00 | 5,70 | 6,60 | 5,50 | 0,16 | 0,20 | 0,30 | 0,50 | 15,00"
+Producción,"128,00 | 152,00 | 127,44 | 133,00 | 108,30 | 125,40 | 104,50 | 0,30 | 0,38 | 0,27"
+Rendimiento,"16,00 | 19,00 | 15,93 | 1,88 | 1,90 | 0,90 | 0,88 | 7,00 | 8,00 | 11,00"
+Ciclo del cultivo,Transitorio | Permanente
+Estado físico del cultivo,En fresco | Grano | Pergamino o seco de trilla | Caña o verde | Grano seco | Fibra o cabuya | Paddy o cascara verde | Aceite crudo | Algodón semilla | Grano o almendra
+Código del cultivo,1050600 | 1060100 | 2041100 | 1050900 | 2030300 | 2030402 | 1051100 | 1051200 | 1051300 | 1051400
+Nombre científico del cultivo,Apium graveolens | Pisum sativum | Ficus carica | Brassica oleracea var. Italica | Coffea arabica | Saccharum officinarum | Allium cepa | Allium fistulosum | Coriandrum sativum | Brassica oleracea var. acephala

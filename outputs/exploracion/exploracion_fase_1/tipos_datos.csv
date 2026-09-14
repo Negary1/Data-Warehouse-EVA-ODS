@@ -1,0 +1,19 @@
+﻿columna,tipo_pandas
+Código Dane departamento,int64
+Departamento,str
+Código Dane municipio,int64
+Municipio,str
+Grupo cultivo,str
+Subgrupo,str
+Cultivo,str
+Desagregación cultivo,str
+Año,int64
+Periodo,str
+Área sembrada,str
+Área cosechada,str
+Producción,str
+Rendimiento,str
+Ciclo del cultivo,str
+Estado físico del cultivo,str
+Código del cultivo,int64
+Nombre científico del cultivo,str

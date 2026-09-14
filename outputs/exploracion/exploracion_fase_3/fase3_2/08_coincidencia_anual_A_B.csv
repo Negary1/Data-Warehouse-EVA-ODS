@@ -1,0 +1,4 @@
+﻿tolerancia,area_sembrada_pct,area_cosechada_pct,produccion_pct
+0.01,5.0,5.0,5.0
+0.05,10.0,5.0,5.0
+0.1,15.0,10.0,5.0

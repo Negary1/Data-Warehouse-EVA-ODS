@@ -1,0 +1,15 @@
+﻿categoria,validacion,estado,detalle
+Archivo,Existencia del archivo,OK,El archivo de staging existe.
+Volumen,Cantidad de registros,OK,"166,732 registros."
+Estructura,Columnas esperadas,OK,Las columnas coinciden en nombre y orden.
+Tipos,Tipos de datos,OK,"Códigos/textos como texto, año convertible a entero y métricas numéricas."
+Calidad,Nulos y vacíos,OK,Nulos: 0. Vacíos: 0.
+Identificadores,Longitud y presencia de códigos,OK,Departamento: 2 caracteres. Municipio: 5 caracteres. Código cultivo presente.
+Tiempo,Año vs Periodo,OK,0 inconsistencias.
+Granularidad,Municipio + Cultivo + Año + Periodo,OK,"166,732 claves únicas para 166,732 registros."
+Métricas,Valores negativos - area_sembrada,OK,0 valores negativos. Rango: 0.0 a 77630.0.
+Métricas,Valores negativos - area_cosechada,OK,0 valores negativos. Rango: 0.0 a 77630.0.
+Métricas,Valores negativos - produccion,OK,0 valores negativos. Rango: 0.0 a 4776340.5.
+Métricas,Valores negativos - rendimiento,OK,0 valores negativos. Rango: 0.0 a 253.0.
+Semántica,Área cosechada > área sembrada,INFORMATIVO,"13,208 registros. Se preservan deliberadamente; no constituyen regla automática de limpieza."
+Semántica,Área sembrada = 0 y cosechada > 0,INFORMATIVO,"3,003 registros. Se preservan deliberadamente."
